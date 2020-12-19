@@ -8,12 +8,12 @@ Ceci est un petit systeme de gestion d'eleve qui permettra de generer et d'enreg
 
 - listeEleve est le fichier contenant le variable de type liste qui contient la liste des eleves, ce fichier nous permettra alors de sauvegarder la liste des eleves
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-This is a small student management system that will generate and save a newsletter.
+This is a student management system which generates and saves a report card.
 
 - main.py is the main program
 
-- class.py contains the high class
+- classe.py contains the class eleve
 
-- function.py contains some useful functions for the code (in this case a sort script, to sort the high objects according to the averageGeneral attribute)
+- fonction.py contains some useful functions for the code (in this case a sort script, to sort the objects eleve according to the moyenneGeneral attribute)
 
-- student list is the file containing the list type variable which contains the list of students, this file will then allow us to save the list of students
+- listeEleve is the file containing the list type variable which contains the list of students, this file will then allow us to save the list of students
